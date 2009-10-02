@@ -40,7 +40,7 @@ class Growl
   ##
   # ruby-growl Version
 
-  VERSION = "1.0.1"
+  VERSION = "1.0.2"
 
   ##
   # Growl Network Registration Packet +pack+ Format
